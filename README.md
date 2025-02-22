@@ -17,7 +17,7 @@
    3. If it runs fine, run ```git add .``` or ```git add <files>``` for specific files 
    4. Now run ```git commit -m "Message"``` 
    
-   5. Run ```git push origin master``` and it's done. 
+   5. Run ```git push origin master``` and it's done
 
    # 📄 License 📄 
    This project has no license as it took me just about a few days to make.
