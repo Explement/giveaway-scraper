@@ -19,9 +19,12 @@
    
    5. Run ```git push origin master``` and it's done
 
-   # 📄 License 📄 
-   This project has no license as it took me just about a few days to make.
-
    # 🚀 About  🚀
 This project took me 4 days to make, as it was essentially just a revamp of a previous project. This is made to get giveaway links and even post to them without any effort.
 
+It works by going off the subreddit r/steamgiveaways, and scraping the 100 newest posts. It checks the flair, and if it's open, it proceeds to the next step; filtering. It checks each of them for keywords in the filter (which conveniently, is in the config file), and if its found to be good, it's returned to the discord bot which then sends a message for each post found.
+
+This project is likely to be redone, with support for more subreddits, more speed, more commands, and a bigger config file.
+
+   # 📄 License 📄 
+   This project has no license as it took me just about a few days to make.
