@@ -5,8 +5,8 @@
   2. Go to *redditpost/SendPost* and change **ALL** the credentials, aswell as the strings in the UserAgent. If you don't know how, please lookup a guide on how to make a reddit. Click [here](https://ssl.reddit.com/prefs/apps/) to make the reddit application. 
   3. Assuming you added your Discord bot to your server, all is done. Run the application and the bot is up. 
   It has 2 main commands: 
-  - Search - a command to search for games, this apps main purpose 
-  - Clear - clears all messages in a channel 
+  - **Search** - a command to search for games, this apps main purpose 
+  - **Clear** - clears all messages in a channel 
   # 💻 Contributing 💻 
   Contributing isn't really needed for this project. However, there is a few QOL features that would be pretty nice. Them being: 
   - A new command to search for specific games. This would be greatly appreciated. 
