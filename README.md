@@ -11,7 +11,7 @@
   Contributing isn't really needed for this project. However, there is a few QOL features that would be pretty nice. Them being: 
   - A new command to search for specific games. This would be greatly appreciated. 
   - A overhaul to the 'Clear' command, as it lacks speed. 
-  Incase someone wants to contribute, I'll put in a quick tutorial here for Git;
+  Git Quickstart:
    1. Make sure that in your terminal your directory is focused on the `giveaway-scraper` 
    2. Run ```git status``` 
    3. If it runs fine, run ```git add .``` or ```git add <files>``` for specific files 
